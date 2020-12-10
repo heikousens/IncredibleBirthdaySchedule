@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - UI", "0 - UI", "{8445E2B8-6E76-437B-AED3-E1460D491742}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{0F840A4C-3BE2-4BED-8D1E-D776427227AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{D3F8A6BD-BD80-4ACA-8825-D33E550940A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{E4CFCFB5-69E6-450D-83D1-8FB0BCB875CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncredibleBirthdaySchedule.Domain", "IncredibleBirthdaySchedule.Domain\IncredibleBirthdaySchedule.Domain.csproj", "{FB2CB9BD-6D2D-4255-BAE2-82E7687D1BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncredibleBirthdaySchedule.Infrastructure", "IncredibleBirthdaySchedule.Infrastructure\IncredibleBirthdaySchedule.Infrastructure.csproj", "{A35CC753-DC3D-40BB-8A8F-23EF71192969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncredibleBirthdaySchedule.App", "IncredibleBirthdaySchedule.App\IncredibleBirthdaySchedule.App.csproj", "{73F2B7E5-0309-41EE-BA4F-3D71B165170C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2CB9BD-6D2D-4255-BAE2-82E7687D1BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2CB9BD-6D2D-4255-BAE2-82E7687D1BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2CB9BD-6D2D-4255-BAE2-82E7687D1BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2CB9BD-6D2D-4255-BAE2-82E7687D1BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35CC753-DC3D-40BB-8A8F-23EF71192969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35CC753-DC3D-40BB-8A8F-23EF71192969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35CC753-DC3D-40BB-8A8F-23EF71192969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35CC753-DC3D-40BB-8A8F-23EF71192969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F2B7E5-0309-41EE-BA4F-3D71B165170C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F2B7E5-0309-41EE-BA4F-3D71B165170C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F2B7E5-0309-41EE-BA4F-3D71B165170C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F2B7E5-0309-41EE-BA4F-3D71B165170C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB2CB9BD-6D2D-4255-BAE2-82E7687D1BFC} = {D3F8A6BD-BD80-4ACA-8825-D33E550940A2}
+		{A35CC753-DC3D-40BB-8A8F-23EF71192969} = {E4CFCFB5-69E6-450D-83D1-8FB0BCB875CE}
+		{73F2B7E5-0309-41EE-BA4F-3D71B165170C} = {8445E2B8-6E76-437B-AED3-E1460D491742}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A94C21-D788-4539-877D-6E7E64687ADB}
+	EndGlobalSection
+EndGlobal
