@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IncredibleBirthdaySchedule.App/1.0.0": {
+        "dependencies": {
+          "IncredibleBirthdaySchedule.Domain": "1.0.0",
+          "IncredibleBirthdaySchedule.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "IncredibleBirthdaySchedule.App.dll": {}
+        }
+      },
+      "IncredibleBirthdaySchedule.Domain/1.0.0": {
+        "runtime": {
+          "IncredibleBirthdaySchedule.Domain.dll": {}
+        }
+      },
+      "IncredibleBirthdaySchedule.Infrastructure/1.0.0": {
+        "dependencies": {
+          "IncredibleBirthdaySchedule.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IncredibleBirthdaySchedule.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IncredibleBirthdaySchedule.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IncredibleBirthdaySchedule.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IncredibleBirthdaySchedule.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
