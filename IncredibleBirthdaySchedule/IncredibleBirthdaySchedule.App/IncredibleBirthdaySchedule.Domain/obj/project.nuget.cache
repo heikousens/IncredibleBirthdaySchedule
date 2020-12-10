@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPUhHemkWDt8UVjZgdJEVW5pUpgjDI40AG7afM83u29k3UIdf3s/c4Dk8/2DN107DjYGc+npaK6KAQzH+Xmz1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CarolMelo\\source\\repos\\IncredibleBirthdaySchedule\\IncredibleBirthdaySchedule.Domain\\IncredibleBirthdaySchedule.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CarolMelo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CarolMelo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

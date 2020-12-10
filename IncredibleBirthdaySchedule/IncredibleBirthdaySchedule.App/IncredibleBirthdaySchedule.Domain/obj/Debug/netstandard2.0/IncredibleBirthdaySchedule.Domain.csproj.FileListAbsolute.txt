@@ -1,0 +1,9 @@
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\bin\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.deps.json
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\bin\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.dll
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\bin\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.pdb
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\obj\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.csprojAssemblyReference.cache
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\obj\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.AssemblyInfoInputs.cache
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\obj\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.AssemblyInfo.cs
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\obj\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\obj\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.dll
+C:\Users\CarolMelo\source\repos\IncredibleBirthdaySchedule\IncredibleBirthdaySchedule.Domain\obj\Debug\netstandard2.0\IncredibleBirthdaySchedule.Domain.pdb
